@@ -6,7 +6,7 @@ import io.hexlet.xo.model.Figure;
 public class WinnerController {
 
     public Figure getWinner(Field field){
-
+        return null;
     }
 
 }
